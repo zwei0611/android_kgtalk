@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "264175230166",
+    "firebase_url": "https://kgtalk-f8849.firebaseio.com",
+    "project_id": "kgtalk-f8849",
+    "storage_bucket": "kgtalk-f8849.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264175230166:android:5e5b9b37c4d2c04e",
+        "android_client_info": {
+          "package_name": "com.example.pc.kgtalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264175230166-bnl8fl4nbtasf3mqdq8huil4l5q5uhq1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pc.kgtalk",
+            "certificate_hash": "f72d84800929782c4bc013d9532dab8b3c70e52e"
+          }
+        },
+        {
+          "client_id": "264175230166-tvaa1vnenmr8mjgdib2l7mllrct3m8t3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOfSHSs_KWXHn3ZIR1cpdZkkToehZrHdE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264175230166-tvaa1vnenmr8mjgdib2l7mllrct3m8t3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
